@@ -1,0 +1,2 @@
+# Museum
+As a result of the course work, an application was developed to automate the work of the museum. The application has a user-friendly interface for different types of users. Additional application functionality was implemented, for example, printing reports, authorization, etc. To create the application, the C# programming language was used using WPF (Windows Presentation Foundation) technology. MS SQL Server 2014 was used as the server.
