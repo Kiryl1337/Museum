@@ -1,0 +1,92 @@
+c:\users\alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\bin\Debug\Polyclinic.exe.config
+c:\users\alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\bin\Debug\Polyclinic.exe
+c:\users\alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\bin\Debug\Polyclinic.pdb
+c:\users\alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\bin\Debug\MaterialDesignColors.dll
+c:\users\alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\bin\Debug\MaterialDesignThemes.Wpf.dll
+c:\users\alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\bin\Debug\MaterialDesignThemes.Wpf.pdb
+c:\users\alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\bin\Debug\MaterialDesignThemes.Wpf.xml
+c:\users\alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\Polyclinic.csprojAssemblyReference.cache
+c:\users\alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\PickRole.g.cs
+c:\users\alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\App.g.cs
+c:\users\alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\Polyclinic_MarkupCompile.cache
+c:\users\alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\Polyclinic_MarkupCompile.lref
+c:\users\alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\PickRole.baml
+c:\users\alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\Polyclinic.g.resources
+c:\users\alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\Polyclinic.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\Polyclinic.csproj.GenerateResource.cache
+c:\users\alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\Polyclinic.csproj.CoreCompileInputs.cache
+c:\users\alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\Polyclinic.csproj.CopyComplete
+c:\users\alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\Polyclinic.exe
+c:\users\alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\Polyclinic.pdb
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\AdministratorLogin.g.cs
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\DoctorLogin.g.cs
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\DoctorRegistration.g.cs
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\PatientLogin.g.cs
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\PatientMainMenu.g.cs
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\AdministratorLogin.baml
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\DoctorLogin.baml
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\DoctorRegistration.baml
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\PatientLogin.baml
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\PatientMainMenu.baml
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\AdminMainMenu.g.cs
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\DoctorMainMenu.g.cs
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\AdminMainMenu.baml
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\DoctorMainMenu.baml
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\EditMedicine.g.cs
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\EditMedicine.baml
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\EditCabinets.g.cs
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\EditDiagnosis.g.cs
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\EditDoctors.g.cs
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\EditProcedures.g.cs
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\EditSpeciality.g.cs
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\EditCabinets.baml
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\EditDiagnosis.baml
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\EditDoctors.baml
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\EditProcedures.baml
+C:\Users\Alex\documents\visual studio 2017\Projects\Polyclinic\Polyclinic\obj\Debug\EditSpeciality.baml
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\bin\Debug\Polyclinic.exe.config
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\bin\Debug\Polyclinic.exe
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\bin\Debug\Polyclinic.pdb
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\bin\Debug\MaterialDesignColors.dll
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\Polyclinic.csprojAssemblyReference.cache
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\AdministratorLogin.g.cs
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\AdminMainMenu.g.cs
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\DoctorLogin.g.cs
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\DoctorMainMenu.g.cs
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\DoctorRegistration.g.cs
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\EditCabinets.g.cs
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\EditDiagnosis.g.cs
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\EditDoctors.g.cs
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\EditMedicine.g.cs
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\EditProcedures.g.cs
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\EditSpeciality.g.cs
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\PatientMainMenu.g.cs
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\PickRole.g.cs
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\App.g.cs
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\Polyclinic_MarkupCompile.cache
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\Polyclinic_MarkupCompile.lref
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\AdministratorLogin.baml
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\AdminMainMenu.baml
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\DoctorLogin.baml
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\DoctorMainMenu.baml
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\DoctorRegistration.baml
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\EditCabinets.baml
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\EditDiagnosis.baml
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\EditDoctors.baml
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\EditMedicine.baml
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\EditProcedures.baml
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\EditSpeciality.baml
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\PatientMainMenu.baml
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\PickRole.baml
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\Polyclinic.g.resources
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\Polyclinic.Properties.Resources.resources
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\Polyclinic.csproj.GenerateResource.cache
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\Polyclinic.csproj.CoreCompileInputs.cache
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\Polyclinic.csproj.CopyComplete
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\Polyclinic.exe
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\Polyclinic.pdb
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\VisitorLogin.g.cs
+F:\Загрузки\Polyclinic\Polyclinic\Polyclinic\obj\Debug\VisitorLogin.baml
